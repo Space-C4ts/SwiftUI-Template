@@ -1,7 +1,7 @@
 # SwiftUI-Template
 
 Installation guide
-  Install: 
-    - make install
-  Uninstall:
-    - make uninstall
+<br>  Install 
+<br>     - make install
+<br>   Uninstall 
+<br>     - make uninstall

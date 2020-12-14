@@ -8,17 +8,21 @@
 
 import SwiftUI
 
-struct ___VARIABLE_sceneName___View: View {
+public struct ___VARIABLE_sceneName___View: View {
     //MARK:- Object
     
     //MARK:- State
     
     //MARK:- Property
     
+    //MARK:- init
+    
     //MARK:- Body
-    var body: some View {
+    public var body: some View {
         Text("Hello")
     }
+    
+    //MARK:- Public
     
     //MARK:- Private
     

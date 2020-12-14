@@ -10,7 +10,7 @@ import Combine
 import YavinUI
 import SwiftUI
 
-class ___VARIABLE_sceneName___Coordinator: UIViewControllerCoordinator<___VARIABLE_sceneName___ViewController> {
+public class ___VARIABLE_sceneName___Coordinator: UIViewControllerCoordinator<___VARIABLE_sceneName___ViewController> {
     
     //MARK:- Property
     

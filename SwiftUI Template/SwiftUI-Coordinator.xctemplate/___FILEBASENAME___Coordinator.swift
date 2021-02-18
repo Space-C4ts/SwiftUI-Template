@@ -12,24 +12,21 @@ import SwiftUI
 
 public class ___VARIABLE_sceneName___Coordinator: UIViewControllerCoordinator<___VARIABLE_sceneName___ViewController> {
     
-    //MARK:- Property
-    
-    //MARK:- init
+    // MARK: - Property
+    // MARK: - init
     override public init(parent: UIViewController) {
         super.init(parent: parent)
     }
-    
+
     override public func start() {
         super.start()
     }
-    
+
     override public func stop() {
         super.stop()
     }
-    
-    //MARK:- Public
-    
-    //MARK:- Private
+    // MARK: - Public
+    // MARK: - Private
 }
 
 public class ___VARIABLE_sceneName___ViewController: UIHostingController<___VARIABLE_sceneName___View> {
